@@ -7,4 +7,11 @@
 iOS App 下载链接：
 [App Store](https://apps.apple.com/cn/app/图坊/id1491581956)
 
+App 截图 1
+<img alt="App 截图" src="https://github.com/peiei/EmojiBook/blob/master/IMG_3383.PNG" width="40%">
 
+App 截图 2
+<img alt="App 截图" src="https://github.com/peiei/EmojiBook/blob/master/IMG_3384.PNG" width="40%">
+
+App 截图 3
+<img alt="App 截图" src="https://github.com/peiei/EmojiBook/blob/master/IMG_3385.PNG" width="40%">
